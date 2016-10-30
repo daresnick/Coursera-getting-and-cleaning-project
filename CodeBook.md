@@ -1,6 +1,5 @@
-CodeBook
 
-## Code Book
+# Code Book
 
 ##**Introduction:**   
 The script run_analysis.R does the cleaning and merging of the data per these instructions:  
@@ -19,6 +18,6 @@ The script run_analysis.R does the cleaning and merging of the data per these in
 ##**Variables and Data:**   
 - activityLabels and features contain the types of activities and variable names 
 - xTrain, yTrain, subjectTrain, xTest, yTest, subjectTest contain the downloaded data
-- 
+
 
 
