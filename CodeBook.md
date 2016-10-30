@@ -2,7 +2,7 @@ CodeBook
 
 ## Code Book
 
-**Introduction:**   
+##**Introduction:**   
 The script run_analysis.R does the cleaning and merging of the data per these instructions:  
 1.	Merges the training and the test sets to create one data set.  
 2.	Extracts only the measurements on the mean and standard deviation for each measurement.  
@@ -16,9 +16,9 @@ The script run_analysis.R does the cleaning and merging of the data per these in
 
 - The script run_analysis.R is well commented to explain each step and the code used.  
 
-**Variables and Data:**   
-#### activityLabels and features contain the types of activities and variable names 
-#### xTrain, yTrain, subjectTrain, xTest, yTest, subjectTest contain the downloaded data
-#### 
+##**Variables and Data:**   
+- activityLabels and features contain the types of activities and variable names 
+- xTrain, yTrain, subjectTrain, xTest, yTest, subjectTest contain the downloaded data
+- 
 
 
