@@ -4,15 +4,15 @@
 ##**Introduction:**   
 The script `run_analysis.R` does the cleaning and merging of the data per these instructions:  
 1.	Merges the training and the test sets to create one data set.  
-	cbind() and rbind(0 are used to combine the data files  
+	--cbind() and rbind(0 are used to combine the data files  
 2.	Extracts only the measurements on the mean and standard deviation for each measurement.  
-	grepl() is used to find the mean and sd columns  
+	--grepl() is used to find the mean and sd columns  
 3.	Uses descriptive activity names to name the activities in the data set  
-	merge() is used  
+	--merge() is used  
 4.	Appropriately labels the data set with descriptive variable names.  
-	columns are simply renamed  
+	--columns are simply renamed  
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
-	melt and dcast are used to summarize the means for each set  
+	--melt and dcast are used to summarize the means for each set  
 
 - The data and data folders were previously loaded to the working directory for the run_analysis.R script.  
 
