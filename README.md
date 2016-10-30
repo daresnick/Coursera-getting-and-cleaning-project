@@ -2,7 +2,7 @@
 ### Getting and Cleaning Data Course Project
 
 **Introduction:**   
-This repository is for the final project of the Coursera, Johns Hopkins, Getting and Cleaning Data course. It serves to demonstrate the getting and cleaning of data into a tidy form that can be better used for analysis. The data used in this project is from [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)  
+This repository is for the final project of the Coursera, Johns Hopkins, Getting and Cleaning Data course. It serves to demonstrate the getting and cleaning of data into a tidy form that can be better used for analysis. The data used in this project is from the: [ UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)  
 [Data found here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 **Project Includes R script run_analysis.R that follows these instructions:**  
