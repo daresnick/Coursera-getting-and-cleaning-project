@@ -16,8 +16,7 @@ This repository is for the final project of the Coursera, Johns Hopkins, Getting
 The data and data folders were previously loaded to the working directory for the run_analysis.R script.
 
 **Output:**   
-The final output of the script is a tidy data set tidydata.txt.
+The final output of the script is a tidy data set tidydata.txt.  
 
 
-**Further:**   
 See the codebook.md file for more detailed information.
