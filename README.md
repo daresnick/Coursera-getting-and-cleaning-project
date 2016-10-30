@@ -19,4 +19,4 @@ The data and data folders were previously loaded to the working directory for th
 The final output of the script is a tidy data set tidydata.txt.  
 
 
-See the codebook.md file for more detailed information.
+See the CodeBook.md file for more detailed information.
