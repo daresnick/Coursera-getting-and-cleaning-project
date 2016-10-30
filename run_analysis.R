@@ -9,7 +9,7 @@ getwd()
 
 ## 1.	Merges the training and the test sets to create one data set.
 
-### First read the training, test, and subject data into R
+### First read the Labels, features, training, test, and subject data into R
 
 activityLabels <- read.table("./activity_labels.txt")
 features <- read.table("./features.txt")
